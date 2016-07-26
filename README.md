@@ -1,15 +1,15 @@
-## HackerRank
+# HackerRank
 HackerRank Challenge.
 
 LOOPS
 
 Given an integer, N, print its first 10 multiples. Each multiple N x i (where 1 <= i <= 10) should be printed on a new line in the form: N x i = result.
 
-#Sample Input
+##Sample Input
 
 2
 
-#Sample Output
+##Sample Output
 
 2 x 1 = 2
 2 x 2 = 4
@@ -21,5 +21,3 @@ Given an integer, N, print its first 10 multiples. Each multiple N x i (where 1 
 2 x 8 = 16
 2 x 9 = 18
 2 x 10 = 20
-
-Thank you!
