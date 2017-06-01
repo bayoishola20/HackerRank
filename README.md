@@ -1,5 +1,5 @@
 # HackerRank
 
-##Solutions to (some) HackerRank Challenges.
+## Solutions to (some) HackerRank Challenges.
 
 Python 2...
