@@ -3,7 +3,7 @@ class Calculator():
     def power(self, n, p):
         self.n = n
         self.p = p
-        if n < 0 or p < 0:
+        if n < 0 or p < 0: #checking for negativity
             return "n and p should be non-negative"
         return pow(n, p)
 
