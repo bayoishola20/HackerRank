@@ -2,4 +2,7 @@
 
 ### Solutions to (some) HackerRank Challenges.
 
-Python 2...
+Python 2
+
+- 30 days challenge
+- Python challenges
