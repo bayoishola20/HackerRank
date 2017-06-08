@@ -10,4 +10,4 @@ class Calculator: public AdvancedArithmetic {
     }
 };
 
-// This was not the plan. No python test-case for this.
+// This was not the plan. No python test-case for this; but there are for c++.
