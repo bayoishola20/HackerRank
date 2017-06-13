@@ -4,5 +4,5 @@
 
 Python 2
 
-- 30 days challenge
-- Python challenges
+`30 days challenge`
+`Python challenges`
