@@ -5,4 +5,4 @@
 Python 2
 
 `30 days challenge`
-`Python challenges`
+`Python Tutorial challenges`
