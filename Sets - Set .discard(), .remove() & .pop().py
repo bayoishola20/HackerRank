@@ -1,4 +1,4 @@
-n = input()
+n = raw_input()
 s = set(map(int, raw_input().split())) 
 N = int(raw_input())
 
