@@ -4,4 +4,5 @@ AB = int(raw_input())
 BC = int(raw_input())
 
 angleMBC = int(round(math.degrees(cmath.phase(complex(0, AB) + complex(0, 0) + complex(BC, 0)))))
+#OR angleMBC = int(round(math.degrees(cmath.phase(complex(BC,AB)))))
 print str(angleMBC) + "°"
