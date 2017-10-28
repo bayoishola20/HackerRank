@@ -11,5 +11,6 @@ Python 2
   * Strings
   * Sets
   * Math
+  * Itertools
 
 PS: Intend to write some in another language
