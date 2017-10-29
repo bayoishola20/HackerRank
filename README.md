@@ -12,5 +12,6 @@ Python 2
   * Sets
   * Math
   * Itertools
+  * Collections
 
 PS: Intend to write some in another language
