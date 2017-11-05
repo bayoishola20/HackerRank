@@ -13,5 +13,6 @@ Python 2
   * Math
   * Itertools
   * Collections
+  * Date and Time
 
 PS: Intend to write some in another language
