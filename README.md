@@ -14,5 +14,6 @@ Python 2
   * Itertools
   * Collections
   * Date and Time
+  * Errors and Exceptions
 
 PS: Intend to write some in another language
