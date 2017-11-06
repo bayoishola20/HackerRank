@@ -15,5 +15,6 @@ Python 2
   * Collections
   * Date and Time
   * Errors and Exceptions
+  * Classes
 
 PS: Intend to write some in another language
