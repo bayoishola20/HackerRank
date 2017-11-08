@@ -16,5 +16,6 @@ Python 2
   * Date and Time
   * Errors and Exceptions
   * Classes
+  * Built-Ins
 
 PS: Intend to write some in another language
