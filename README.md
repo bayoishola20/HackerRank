@@ -17,5 +17,6 @@ Python 2
   * Errors and Exceptions
   * Classes
   * Built-Ins
+  * Python Functionals
 
 PS: Intend to write some in another language
