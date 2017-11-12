@@ -18,5 +18,6 @@ Python 2
   * Classes
   * Built-Ins
   * Python Functionals
+  * Regex and Parsing
 
 PS: Intend to write some in another language
