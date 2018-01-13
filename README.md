@@ -19,5 +19,6 @@ Python 2
   * Built-Ins
   * Python Functionals
   * Regex and Parsing
+  * XML
 
 PS: Intend to write some in another language
