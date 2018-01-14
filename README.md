@@ -20,5 +20,6 @@ Python 2
   * Python Functionals
   * Regex and Parsing
   * XML
+  * Closures and Decorators
 
 PS: Intend to write some in another language
