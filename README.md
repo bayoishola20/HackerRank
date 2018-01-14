@@ -21,5 +21,6 @@ Python 2
   * Regex and Parsing
   * XML
   * Closures and Decorators
+  * Numpy
 
 PS: Intend to write some in another language
