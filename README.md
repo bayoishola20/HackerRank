@@ -23,4 +23,4 @@ Python 2
   * Closures and Decorators
   * Numpy
 
-PS: Intend to write some in another language
+PS: I intend to write some in another language
