@@ -7,6 +7,8 @@ class Polygon {
     constructor(sides) {
         this.sides = sides;
     }
+
+    //Perimeter method
     perimeter() {
         let total = 0;
         this.sides.forEach(
@@ -28,4 +30,4 @@ const pentagon = new Polygon([10, 20, 30, 40, 43]);
 
 console.log(rectangle.perimeter());
 console.log(square.perimeter());
-console.log(pentagon.perimeter());
+console.log(pentagon.perimeter);
