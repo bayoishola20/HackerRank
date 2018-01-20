@@ -30,4 +30,4 @@ const pentagon = new Polygon([10, 20, 30, 40, 43]);
 
 console.log(rectangle.perimeter());
 console.log(square.perimeter());
-console.log(pentagon.perimeter);
+console.log(pentagon.perimeter());
