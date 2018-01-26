@@ -23,6 +23,7 @@ Python 2
   * Closures and Decorators
   * Numpy
 
-* 10 days of JavaScript.
+* 10 days of JavaScript
+* 10 days of Statistics
 
 PS: I intend to write some in another language
